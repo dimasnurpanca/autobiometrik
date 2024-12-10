@@ -57,12 +57,6 @@ Penjelasan:
 - path: Path lengkap ke aplikasi Frista.
 - username & password: Login untuk aplikasi Frista/Fingerprint.
 
-# AutoBiometrik: Cara Kerja & Tips Fitur Auto Close  
-
-AutoBiometrik dirancang untuk mempermudah integrasi biometrik (Fingerprint & Frista) dalam sistem rumah sakit. Panduan ini menjelaskan alur kerja aplikasi dan memberikan tips untuk mengoptimalkan fitur auto-close, sehingga proses biometrik menjadi lebih efisien.
-
----
-
 ## 🚀 **Cara Kerja AutoBiometrik**  
 
 1. **Persiapan**  
