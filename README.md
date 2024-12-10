@@ -4,6 +4,10 @@
 
 ---
 
+https://github.com/user-attachments/assets/090a629b-fc95-42fc-a0f8-3db7fbe5c8a8
+
+
+
 ## 🎯 Fitur Utama  
 - **Makro Ringan**  
   Jalankan `autobiometrik.exe` untuk otomatisasi biometrik menggunakan Fingerprint atau Frista.  
